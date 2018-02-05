@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_1c4ce5e4acf96b283b577583f8ba73ede64f4b3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakshmi/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_3ef3b702867de89a0c4b3570d071aeb723695c39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_87399b3ba28f0cf5abaff6c66b9ce5ed999de9f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e4a9d42c6d45eed4fd52f28dee859884131eae4c">
+        <dex dex="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.0.1_356483ee88dc21bd6e3eed075a4e503f81ff4677.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_94b0a528b4959ab6ed1b702a8a0791370b19a4d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3b7bd52e7b84674c67e424dde64f7b7990d7bc54">
+        <dex dex="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.2_b14224ad46c7d13618e48b4c1813048e583db144.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakshmi/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_dbefba5b309df4c0c39d25808d31e52dddfea260.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_fcfe5e1fb159d7b0ee3fa126b9e59be5d30dfb79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_62cfea6dbcc16ead91c2c9166bc8a8a54fec57de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakshmi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_3d7ea8c7f51ff504fee17fabd61c130ef5bbb959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/exploded-aar/reactNavigationDemo/react-native-auth0/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d897bbe1f9907691d689cebde51537059d04d340">
+        <dex dex="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/pre-dexed/debug/reactNavigationDemo-react-native-auth0-unspecified_958a003d7459765f34e4c560795fba077011eb85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_d59dd227ef939fefa722a206e2ecadd24cf8788c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakshmi/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_778966630f633803709ed3024f2e985e4e627ed8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_c0eb89e4f1fa586e21cb4a18eb2faa0fd968c2bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakshmi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_046ac5ac7363786ea2d888cf293562d3bc308a62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakshmi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_b136eb9294ebc9968a7135b85bacde1917badc2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_263651fa3aecd14e8473c0619b9771f93a8e9bd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakshmi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_515556b3a9a954c572d6eec6f591058349d21e6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_efabecba532c99c5712dd792b38d41f22ee6fa13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_ecbbee2b0211cd30d0fe77199bb870035c56fa94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakshmi/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_a6d6e3efdcab5d7727535b067b3d89ca96fb2155.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_d3924acedb10eaf225d85e4b8d4efe475395d428.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/lakshmi/Downloads/reactNavigation_demo/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_2ddc83eb14b283ca39ebef9bab66a95c69483c59.jar" />
+    </item>
+
+</items>

@@ -1,29 +1,23 @@
-# Instructions
-For this code test you will need to successfully do the following:
+## React-Native demo project
 
-* Create a react native app using redux
-* Allow a user to register / login successfully through Auth0
-* Compile without errors for both iOS and Android
+### Tech-Stack:
 
-## System Requirements
-* React Native 0.26.0
-* NodeJS 4.3
+1. React-Native
+2. React-Navigation
+3. Redux
+4. Redux-persist
 
-## Details
-This repo is from Auth0 and includes sample code for integrating the registration and login for users through Auth0. You can choose to use this sample code to build on or re-write your own app. Feel free to use generators or whatever is fast and easy to scale. IMPORTANT - The developer who is chosen will use this code to start the project, so develop something that will be sustainable.
+This project demonstrates a authentication flow using the above mentioned technologies:
 
-## Submissions
-The code test needs to be submitted no later than Monday February 5th @ 12pm Central Standard Time (+6 GMT). Make a PR to this repo and send me a message on Upwork. Results will be decided Monday and qualified candidates will receive a follow up meeting with further instructions.
+1. React-native for building cross-platform native app for iOS and Android.
+2. React-navigation is used to manage Navigation in the app.
+3. Redux is used to manage the application state as well as navigation state.
+4. Redux-persist is used to persist the redux state to the smartphone's local storage.
 
-## Credentials
-* Auth0 creds are at /app/auth0-credentials.js
-* Client Secret = aNuexLgiEp-Dy7xlKAyllPvAzGRbdDqzj_1_pliQbkKjVPq9P1Utn1Mu0C4iOTIr
+### Running the project locally:
 
-## Support
-If you need further assistance with the Auth0 setup or configurations, please email me directly at reza.piri@gennovacap.com
+Before running the project locally, please ensure that you have Xcode(for iOS) and Android Studio(for Android) installed. Once these tools are setup, following are the steps to run the app:
 
-# Auth0 React Native Samples - Login
-
-For more information:
-
-- [Login QuickStart](https://auth0.com/docs/quickstart/native/react-native/00-login)
+1. `cd PROJECT_ROOT`, navigate to the root of the project folder.
+2. `npm i`, install necessary npm packages.
+3. `react-native run-ios` and `react-native run-android` for running on respective platforms.
